@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="signif" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/signif" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/signif" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Golomb0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GolombInv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="KW_inversion_runs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SFcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Separate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="all.h" />
+		<Unit filename="bin_add.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cr_test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="deSFcode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_2n_code_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_2n_code_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_2n_code_sub1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_Kside.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_KsideSub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_KsideSub_n1s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_Kside_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_r0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_r1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_r_cr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_runs_0seps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_runs_1sep.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_runs_2seps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_runs_2sepsA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_runs_sep_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_sub3d_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_sub3d_sub2_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_z0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_z0_r0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_zone_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_zone_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="de_zone_sub_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block3_n0s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block3_n1s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block5_n0s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_block5_n1s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_stationary_source_Nsym_lenr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_stationary_source_leninvr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_stationary_source_lenr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_stationary_source_r_invr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="decode_stationary_source_sumr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_2n_code_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_2n_code_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_Kside.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_KsideSub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_KsideSub_n1s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_Kside_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_r0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_r1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_r_cr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_runs_0seps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_runs_1sep.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_runs_2seps.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_runs_2sepsA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_runs_sep_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_sub3d_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_sub3d_sub2_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_z0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_z0_r0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_zone_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_zone_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="en_zone_sub_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_block3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_block5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_block_nrs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_block_nrs_lenres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_stationary_source_Nsym.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_stationary_source_Nsym_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_stationary_source_bin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_stationary_source_cbook.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encode_stationary_source_r_invr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encoding.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="encoding.h" />
+		<Unit filename="find_thd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="find_thd4subs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="find_thd_idx.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="find_the_idx_round.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hist.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hist_return_len.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="k_criterion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="len_bit_to_byte.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parameter_setting.h" />
+		<Unit filename="prob_est.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="probility_estimation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="separate0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="separate_Bversion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="separate_inv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sumBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_de_2n_code_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_de_r_cr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_de_sub3d_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_de_sub3d_sub2_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_de_z0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_2n_code_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_2n_code_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_and_de_2n_code_new.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_r_cr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_sub3d_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_sub3d_sub2_sub.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_z0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_z0_r0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test_en_zone_sub2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="thd_index_inv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="the_index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="writeBin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
