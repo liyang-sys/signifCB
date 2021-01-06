@@ -547,7 +547,12 @@ void en_sub3d_sub2_sub(Uint8_Dat* z, Uint32_Dat* r, int lB, float pr, Uint32_Dat
 				{
 					en_2n_code_new(&crTest.cf1, &crTest.nc1, typ2, thdq);//bin21
 				}
-				en_2n_code_new(&cf12, &nc12, typ, thdh);//bin12
+
+				//FILE* fp = fopen("cf12Copy.txt", "wb");
+				//fwrite(cf12Copy.dat, sizeof(unsigned int), cf12Copy.len, fp);
+				//fclose(fp);
+
+				en_2n_code_new(&cf12Copy, &nc12, typ, thdh);//bin12
 			}
 
 			//free(crTest1.cf1.dat);
@@ -1209,7 +1214,7 @@ void en_sub3d_sub2_sub(Uint8_Dat* z, Uint32_Dat* r, int lB, float pr, Uint32_Dat
 	else if (thd >= 16)
 	{
 	    thdh = thd / 2;
-		thdq = thd / 4; 
+		thdq = thd / 4;
 		int thdt = thd / 8;
 		int  L2 = 0, L3 = 0;
 		SEP sepCfk = separate0((int *)(cfk->dat), thdh, (int)(cfk->len), 1);
