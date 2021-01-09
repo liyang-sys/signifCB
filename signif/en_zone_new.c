@@ -19,7 +19,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 	int th[25] = {0,1,2,3,4,6,8,12,16,24,32,48,64,96,128,192,256,384,512,768,1024,1536,2048,3072,4096 };
 	float p1 = 0.7, p2 = 0.8;
 	int Ln = nc->len;
-	
+
 	//int sumNc = sum(nc->dat,nc->len);
 	//Uint32_Dat ncCopy;
 	//ncCopy.len = nc->len;
@@ -30,7 +30,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 	//}
 	int idx = find_thd_idx(nc,p1,th);//问一下find_thd_idx区别
 	int thd1 = th[idx];
-	
+
 	Uint32_Dat idxU32;
 	idxU32.len = 1;
 	idxU32.dat = calloc(1, sizeof(unsigned int));
@@ -164,7 +164,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 		idx = find_thd_idx(&ncw, p1, th);
 		int thd2 = th[idx];
 
-		SEP sep2 = separate0(rw.dat, thd2, rw.len, 0);
+		SEP sep2 = separate0(rw.dat, thd2, rw.len, 1);
 
 		Uint32_Dat nck2;
 		nck2.dat = calloc(thd2, sizeof(unsigned int));
@@ -254,7 +254,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 			Uint32_Dat rw2;
 			rw2.dat = sep2.rw;
 			rw2.len = sep2.lrw;
-		
+
 			//Uint32_Dat rw2Copy;
 			//rw2Copy.dat = calloc(rw2.len, sizeof(unsigned int));
 			//if (rw2Copy.dat == NULL)
@@ -322,7 +322,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 			fwrite(rwCopy.dat, sizeof(unsigned int), rwCopy.len, fp);
 			fclose(fp);
 			en_zone_sub_new(&rwCopy, crw, &sepTemp);
-			
+
 			//K_Criterion()
 			if (sepTemp->nk != NULL)
 			{
@@ -349,10 +349,10 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 		//{
 		//	free(sep2.sep);
 		//}
-		if (sep2.rw != NULL)
-		{
-			free(sep2.rw);
-		}
+		//if (sep2.rw != NULL)
+		//{
+		//	free(sep2.rw);
+		//}
 		if (rs2.dat != NULL)
 		{
 			free(rs2.dat);
@@ -362,7 +362,7 @@ void en_zone_new(Uint32_Dat*r, Uint32_Dat*nc)
 			free(rwCopy.dat);
 		}
 	}
-		
+
 	if (idxU32.dat != NULL)
 	{
 		free(idxU32.dat);
