@@ -561,3 +561,570 @@
 	"parameter_setting.h"
 	"all.h"
 
+1569406064 source:c:\users\liyang\desktop\bishe\signifcb\signif\bin_add.c
+	<stdio.h>
+	"all.h"
+
+1609165558 c:\users\liyang\desktop\bishe\signifcb\signif\all.h
+	<stdlib.h>
+
+1608960668 source:c:\users\liyang\desktop\bishe\signifcb\signif\cr_test.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609817881 c:\users\liyang\desktop\bishe\signifcb\signif\encoding.h
+	"parameter_setting.h"
+	"all.h"
+	<math.h>
+
+1609777619 c:\users\liyang\desktop\bishe\signifcb\signif\parameter_setting.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605879257 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_2n_code_new.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+	<math.h>
+
+1605857530 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_2n_code_sub.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+	<math.h>
+
+1605877645 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_2n_code_sub1.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+	<math.h>
+
+1570307316 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_kside.c
+	<stdio.h>
+	"all.h"
+
+1608958101 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_kside_new.c
+	<stdio.h>
+	"all.h"
+
+1570272306 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_ksidesub.c
+	<stdio.h>
+	"all.h"
+
+1570271948 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_ksidesub_n1s.c
+	<stdio.h>
+	"all.h"
+
+1609487092 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_r0.c
+	<stdio.h>
+	"all.h"
+
+1607537422 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_r1.c
+	<stdio.h>
+	"all.h"
+
+1609297088 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_r_cr.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1607080089 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_runs_0seps.c
+	<stdio.h>
+	"all.h"
+	"parameter_setting.h"
+
+1607082827 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_runs_1sep.c
+	<stdio.h>
+	"all.h"
+	"parameter_setting.h"
+
+1609481466 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_runs_2seps.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1607527992 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_runs_2sepsa.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1570310454 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_runs_sep_sub.c
+	<stdio.h>
+	"all.h"
+
+1609850366 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_sub3d_sub2_sub.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1606407174 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_z0.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1606409113 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_z0_r0.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609399917 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_zone_new.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609751520 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_zone_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609488419 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_zone_sub_new.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1567650766 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1567516922 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block3_n0s.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1567518582 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block3_n1s.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1568106808 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1567571126 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block5_n0s.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1609870307 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_block5_n1s.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1567516022 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_stationary_source_leninvr.c
+	<stdio.h>
+	"all.h"
+
+1567515378 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_stationary_source_lenr.c
+	<stdio.h>
+	"all.h"
+
+1607530504 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_stationary_source_nsym_lenr.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1568913336 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_stationary_source_r_invr.c
+	<stdio.h>
+	"all.h"
+
+1568034692 source:c:\users\liyang\desktop\bishe\signifcb\signif\decode_stationary_source_sumr.c
+	<stdio.h>
+	"all.h"
+
+1609227330 source:c:\users\liyang\desktop\bishe\signifcb\signif\desfcode.c
+	"all.h"
+	<stdio.h>
+
+1605792703 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_2n_code_new.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+	<math.h>
+
+1605707687 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_2n_code_sub.c
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609045476 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_kside.c
+	<stdio.h>
+	"all.h"
+
+1608958161 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_kside_new.c
+	<stdio.h>
+	"all.h"
+	"parameter_setting.h"
+
+1607014898 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_ksidesub.c
+	<stdio.h>
+	"all.h"
+
+1569387220 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_ksidesub_n1s.c
+	<stdio.h>
+	"all.h"
+
+1570290154 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_r0.c
+	<stdio.h>
+	"all.h"
+
+1602986754 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_r1.c
+	<stdio.h>
+	"all.h"
+
+1609045654 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_r_cr.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1606733110 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_runs_0seps.c
+	<stdio.h>
+	"all.h"
+	"parameter_setting.h"
+	"encoding.h"
+
+1607501960 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_runs_1sep.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1607500234 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_runs_2seps.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1607501460 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_runs_2sepsa.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1570300312 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_runs_sep_sub.c
+	<stdio.h>
+	"all.h"
+
+1609910181 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_sub3d_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1606320327 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_z0.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1606405285 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_z0_r0.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609036656 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_zone_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1608958272 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_zone_sub_new.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1605184866 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_block3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1568901832 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_block5.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1569385066 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_block_nrs.c
+	<stdio.h>
+	"all.h"
+
+1568907998 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_block_nrs_lenres.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"all.h"
+
+1607015342 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_stationary_source_bin.c
+	<stdio.h>
+	"all.h"
+
+1570294830 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_stationary_source_cbook.c
+	<stdio.h>
+	"all.h"
+
+1607187144 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_stationary_source_nsym.c
+	<stdio.h>
+	"all.h"
+
+1608958317 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_stationary_source_nsym_sub.c
+	<stdio.h>
+	"all.h"
+
+1568901876 source:c:\users\liyang\desktop\bishe\signifcb\signif\encode_stationary_source_r_invr.c
+	<stdio.h>
+	"all.h"
+
+1605593654 source:c:\users\liyang\desktop\bishe\signifcb\signif\encoding.c
+
+1607098943 source:c:\users\liyang\desktop\bishe\signifcb\signif\find_thd.c
+	"all.h"
+	<stdio.h>
+
+1609910219 source:c:\users\liyang\desktop\bishe\signifcb\signif\find_thd4subs.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1607175796 source:c:\users\liyang\desktop\bishe\signifcb\signif\find_thd_idx.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1608958872 source:c:\users\liyang\desktop\bishe\signifcb\signif\find_the_idx_round.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1567571390 source:c:\users\liyang\desktop\bishe\signifcb\signif\golombinv.c
+	<stdio.h>
+	"all.h"
+
+1606730845 source:c:\users\liyang\desktop\bishe\signifcb\signif\hist.c
+	"all.h"
+	<stdio.h>
+
+1606718490 source:c:\users\liyang\desktop\bishe\signifcb\signif\hist_return_len.c
+	"all.h"
+	<stdio.h>
+	"parameter_setting.h"
+
+1609818086 source:c:\users\liyang\desktop\bishe\signifcb\signif\k_criterion.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1567571666 source:c:\users\liyang\desktop\bishe\signifcb\signif\kw_inversion_runs.c
+	<stdio.h>
+	"all.h"
+
+1558873794 source:c:\users\liyang\desktop\bishe\signifcb\signif\len_bit_to_byte.c
+	<stdio.h>
+	"all.h"
+
+1609910292 source:c:\users\liyang\desktop\bishe\signifcb\signif\main.c
+	"parameter_setting.h"
+	"parameter_setting.h"
+	"encoding.h"
+
+1607274948 source:c:\users\liyang\desktop\bishe\signifcb\signif\prob_est.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1607271522 source:c:\users\liyang\desktop\bishe\signifcb\signif\probility_estimation.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+
+1608629619 source:c:\users\liyang\desktop\bishe\signifcb\signif\separate.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1603502880 source:c:\users\liyang\desktop\bishe\signifcb\signif\separate0.c
+	<stdio.h>
+	"all.h"
+
+1605593749 source:c:\users\liyang\desktop\bishe\signifcb\signif\separate_bversion.c
+	<stdio.h>
+	"all.h"
+
+1570270248 source:c:\users\liyang\desktop\bishe\signifcb\signif\separate_inv.c
+	<stdio.h>
+	"all.h"
+
+1609050420 source:c:\users\liyang\desktop\bishe\signifcb\signif\sfcode.c
+	"all.h"
+	<stdio.h>
+
+1567568608 source:c:\users\liyang\desktop\bishe\signifcb\signif\sum.c
+	<stdio.h>
+	"all.h"
+
+1607084499 source:c:\users\liyang\desktop\bishe\signifcb\signif\sumbin.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1605874048 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_de_2n_code_new.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1607517916 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_de_r_cr.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1609871925 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_de_sub3d_sub2.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1609834620 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_de_sub3d_sub2_sub.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1605682388 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_de_z0.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1605790757 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_2n_code_new.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1605880381 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_2n_code_sub.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1605967746 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_and_de_2n_code_new.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1607135388 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_r_cr.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609910292 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_sub3d_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609855626 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_sub3d_sub2_sub.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1605608130 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_z0.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1608620255 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_z0_r0.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1609814778 source:c:\users\liyang\desktop\bishe\signifcb\signif\test_en_zone_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1567605658 source:c:\users\liyang\desktop\bishe\signifcb\signif\thd_index_inv.c
+	<stdio.h>
+	"all.h"
+
+1567907190 source:c:\users\liyang\desktop\bishe\signifcb\signif\the_index.c
+	"all.h"
+	<stdio.h>
+
+1607541481 source:c:\users\liyang\desktop\bishe\signifcb\signif\writebin.c
+	<stdio.h>
+	"encoding.h"
+	"parameter_setting.h"
+	"all.h"
+
+1609918760 source:c:\users\liyang\desktop\bishe\signifcb\signif\de_sub3d_sub2.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1610200772 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_sub3d_sub2_sub.c
+	<stdio.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1610200655 source:c:\users\liyang\desktop\bishe\signifcb\signif\en_zone_new.c
+	<stdio.h>
+	<math.h>
+	"all.h"
+	"encoding.h"
+	"parameter_setting.h"
+
+1610200618 source:c:\users\liyang\desktop\bishe\signifcb\signif\golomb0.c
+	<stdio.h>
+	"all.h"
+
